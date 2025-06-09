@@ -73,9 +73,6 @@ This project is designed for full reproducibility. To replicate the analysis and
 
 ---
 
-git clone https://github.com/your-username/PHCUOR-DiD-Analysis.git
-
-
 ## Project Structure
 
 - `01_data_cleaning.Rmd` – Data wrangling, variable transformation (binary and factor), merging datasets.
