@@ -47,3 +47,24 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Ignore all Word and HTML tables
+PHCUOR/analysis/*.docx
+PHCUOR/analysis/*.html
+
+# Ignore any R serialized data
+PHCUOR/analysis/*.rds
+
+# Ignore everything inside a folder
+PHCUOR/figures/
+
+# Other files
+.Rproj
+data/raw/
+data/*.sav
+*.html
+*.pdf
+*.xlsx
+*.zip
+
+
