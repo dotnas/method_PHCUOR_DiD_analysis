@@ -1,5 +1,6 @@
 # PHCUOR-DiD-Analysis
-A Difference-in-Differences analysis of Nigeria's PHCUOR policy and its impact on facility births
+This is an exploratory analysis conducted as part of methods learning in causal inference using MICS data.
+
 # Evaluating the Impact on Facility Birth of PHCUOR Policy in Nigeria: A Difference-in-Differences Analysis (MICS 2007–2016)
 
 This repository contains the complete analysis and findings from a quasi-experimental Difference-in-Differences (DiD) study that assessed the impact of Nigeria's Primary Health Care Under One Roof (PHCUOR) policy on facility birth rates with data from MICS 2007, 2011, and 2016.
